@@ -21,15 +21,15 @@ You will be able to play the chrom offline dinosaur game using two options :
 
 `When the circle is over the top line the tirex will jump, and when it's under the bottom line the tirex will look down (Duck mode)`
 
-## Preview
+## Previews
 
 **Eyes**
 
-![](https://github.com/aminejafur/PoseNet-chromeDinosaur/blob/master/gifs/eyes.gif)
+<img src="https://github.com/aminejafur/PoseNet-chromeDinosaur/blob/master/gifs/eyes.gif" width="30%">
 
 **Shoulders**
 
-![](https://github.com/aminejafur/PoseNet-chromeDinosaur/blob/master/gifs/shoulders.jpg)
+<img src="https://github.com/aminejafur/PoseNet-chromeDinosaur/blob/master/gifs/shoulders.jpg" width="50%">
 
 ## Resources
 The trex runner game is extracted from chrome offline err page [@source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7), you can find more  in this [ repo! :smile: ](https://github.com/wayou/t-rex-runner).
